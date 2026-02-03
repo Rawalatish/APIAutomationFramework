@@ -5,6 +5,7 @@ Screenshot 2023-12-08 at 8 20 27 AM
 <img width="1609" height="563" alt="288948194-a09647ad-720b-4afb-8d33-b69e4710cee4" src="https://github.com/user-attachments/assets/4a387fed-dda6-482f-a9c4-ff185a95f6ab" />
 
 
+
 Tech Stack
 Python 3.11
 Requests - HTTP Requests
