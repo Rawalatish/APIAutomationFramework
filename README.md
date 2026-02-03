@@ -1,7 +1,10 @@
-Python API Automation Framework
+**Python API Automation Framework**
 Hybrid Custom Framework to Test the REST APIs
 
 Screenshot 2023-12-08 at 8 20 27 AM
+<img width="1609" height="563" alt="288948194-a09647ad-720b-4afb-8d33-b69e4710cee4" src="https://github.com/user-attachments/assets/4a387fed-dda6-482f-a9c4-ff185a95f6ab" />
+
+
 
 Tech Stack
 Python 3.11
@@ -31,7 +34,8 @@ To work wit JSON Schema
 pip install jsonschema
 
 How to run via Jenkins(CI/CD)
-Screenshot 2024-04-08 at 7 55 21 AM
+Screenshot 2024-04-08 at 7 55 21 AM<img width="1198" height="356" alt="320336875-f6901407-910b-4ea2-a329-0a4433f7e240" src="https://github.com/user-attachments/assets/7de1019c-31e4-4ee1-b123-4d466e85b5cc" />
+
 
 Jenkins Run Process
 Install the Jenkins - jenkins dowload
