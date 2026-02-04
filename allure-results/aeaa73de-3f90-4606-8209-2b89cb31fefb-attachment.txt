@@ -1,0 +1,1 @@
+json shema file path:  C:\Users\HP\PycharmProjects\APIAutomationFramework

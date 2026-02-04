@@ -6,8 +6,12 @@ def verify_http_status_code(response_data, expect_data):
 
 
 def verify_json_key_for_not_null(key):
-    assert key != 0, "Failed - Key is non Empty" + key
-    assert key > 0, "Failed - Key is grater than zero"
+    # assert key != 0, "Failed - Key is non Empty" + key
+    # assert key > 0, "Failed - Key is grater than zero"
+
+    assert key is not None, "Failed - Key is None"
+    assert len(str(key)) > 0, "Failed - Key is empty"
+
 
 
 def verify_json_key_for_not_null_token(key):

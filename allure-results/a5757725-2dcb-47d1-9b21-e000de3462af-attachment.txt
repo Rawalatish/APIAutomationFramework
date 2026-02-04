@@ -1,0 +1,2 @@
+json shema file path:  C:\Users\HP\PycharmProjects\APIAutomationFramework
+2684 is not of type 'string'
